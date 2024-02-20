@@ -1,0 +1,64 @@
+body{
+    background-color: #0080ff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+
+#Topper {
+    background-color: rgb(68, 84, 144);
+    width: 100%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Lamborghini {
+    height: 573px;
+    width: 1252px;    
+}
+
+#hello {
+    background-color:rgba(3, 3, 171, 0.496);
+    width: 100%;
+    height: 15%;
+    display: flex;
+    justify-content: center;
+}
+
+#cars {
+    color: white;
+    background-color: rgba(3, 3, 171, 0.496);
+    width: 100%;
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#carbox {   
+    height: 40%;
+    Width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxes {
+    background-color: rgba(3, 3, 171, 0.496);
+    color: white;
+    height: 80%;
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    resize: none
+}
